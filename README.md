@@ -1,12 +1,12 @@
-# CueManager
+# CueControl
 
 **Il gestionale completo per la tua sala biliardo.**
 
-CueManager e il software che semplifica ogni aspetto della gestione di una sala biliardo: dall'accensione automatica delle luci ai tavoli, al calcolo preciso dei costi per ogni sessione di gioco, fino ai report di incasso giornalieri e mensili.
+CueControl e il software che semplifica ogni aspetto della gestione di una sala biliardo: dall'accensione automatica delle luci ai tavoli, al calcolo preciso dei costi per ogni sessione di gioco, fino ai report di incasso giornalieri e mensili.
 
 ---
 
-## Cosa fa CueManager
+## Cosa fa CueControl
 
 ### Gestione tavoli in tempo reale
 
@@ -14,7 +14,7 @@ Ogni tavolo della sala e visibile a colpo d'occhio con il suo stato attuale: lib
 
 ### Controllo luci automatico
 
-CueManager controlla direttamente le luci sopra ogni tavolo. Quando una sessione inizia, la luce si accende. Quando finisce, si spegne. Nessun interruttore manuale, nessuna dimenticanza, nessuno spreco di corrente.
+CueControl controlla direttamente le luci sopra ogni tavolo. Quando una sessione inizia, la luce si accende. Quando finisce, si spegne. Nessun interruttore manuale, nessuna dimenticanza, nessuno spreco di corrente.
 
 ### Tariffe flessibili
 
@@ -26,7 +26,7 @@ Tieni traccia dei tuoi clienti abituali: storico partite, crediti, abbonamenti e
 
 ### Giornata lavorativa e report
 
-Apri la giornata, lavora, chiudi la giornata. CueManager genera automaticamente il report con tutti gli incassi, le sessioni effettuate, le consumazioni al bar e il totale di cassa. Report giornalieri, settimanali e mensili sempre disponibili.
+Apri la giornata, lavora, chiudi la giornata. CueControl genera automaticamente il report con tutti gli incassi, le sessioni effettuate, le consumazioni al bar e il totale di cassa. Report giornalieri, settimanali e mensili sempre disponibili.
 
 ### Gestione bar integrata
 
@@ -44,7 +44,7 @@ Definisci chi puo fare cosa. L'operatore alla cassa ha i suoi permessi, il titol
 
 ## Come funziona
 
-CueManager si installa su un singolo PC nella sala (il PC cassa o un touchscreen dedicato). L'installazione e guidata: un wizard iniziale ti chiede i parametri base e il sistema e pronto in pochi minuti.
+CueControl si installa su un singolo PC nella sala (il PC cassa o un touchscreen dedicato). L'installazione e guidata: un wizard iniziale ti chiede i parametri base e il sistema e pronto in pochi minuti.
 
 Il software funziona **completamente offline** - non serve connessione a Internet per le operazioni quotidiane. Tutti i dati restano sul tuo dispositivo, nella tua sala.
 
@@ -63,7 +63,7 @@ Gli aggiornamenti vengono scaricati e installati automaticamente quando disponib
 ## Installazione
 
 1. Scarica l'ultima versione dell'installer dalla sezione [Releases](https://github.com/uNiqu3Alex/tableflow-release/releases)
-2. Esegui `CueManager-Setup-X.Y.Z.exe`
+2. Esegui `CueControl-Setup-X.Y.Z.exe`
 3. Segui la procedura di installazione guidata
 4. Al primo avvio, il wizard di configurazione ti guidera nella configurazione iniziale
 
@@ -71,7 +71,7 @@ Gli aggiornamenti vengono scaricati e installati automaticamente quando disponib
 
 ## Aggiornamenti
 
-CueManager si aggiorna automaticamente. Quando una nuova versione e disponibile, il sistema la scarica in background e la installa al momento opportuno, senza interrompere le sessioni in corso.
+CueControl si aggiorna automaticamente. Quando una nuova versione e disponibile, il sistema la scarica in background e la installa al momento opportuno, senza interrompere le sessioni in corso.
 
 ---
 
@@ -87,4 +87,4 @@ Per assistenza, segnalazione bug o richieste di nuove funzionalita:
 ## Licenza
 
 Software proprietario. Tutti i diritti riservati.
-Copyright (c) 2026 CueManager.
+Copyright (c) 2026 CueControl.
